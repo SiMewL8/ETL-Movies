@@ -1,1 +1,7 @@
 config.py
+notebooks/ratings.csv
+notebooks/movies_metadata.csv
+notebooks/wikipedia.movies.json
+
+
+
